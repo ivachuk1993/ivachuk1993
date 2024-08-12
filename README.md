@@ -1,4 +1,6 @@
 # Portfolio Projects
+- 👋 Hi, I’m Verônica Ivachuk from S.
+
 ## Here are my projects/studies regarding SQL, Power BI, Python, Statistics and Excel <br />
 
 #### *If you prefer, you can follow me on Linkedin: [@Verônica_Ivachuk](https://www.linkedin.com/in/veronica-ivachuk)* <br />
