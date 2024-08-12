@@ -1,10 +1,7 @@
-# Projetos de Portfólio
-## Aqui seguem meus projetos/estudos a respeito de SQL, Power BI, Python, Estatística e Excel <br />
-#### *Se preferir você pode me acompanhar no Linkedin : [@Verônica_Ivachuk](https://www.linkedin.com/in/veronica-ivachuk)* <br />
+# Portfolio Projects
+## Here are my projects/studies regarding SQL, Power BI, Python, Statistics and Excel <br />
 
-
-- 👋 Hi, I’m Verônica Ivachuk da S.
-- 👀 I’m interested in SQL, Power BI, Python and excel.
+#### *If you prefer, you can follow me on Linkedin: [@Verônica_Ivachuk](https://www.linkedin.com/in/veronica-ivachuk)* <br />
   
 
 <!---
